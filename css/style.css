@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+.studio {
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+}
+.port {
+    width: 100%;
+        height: 100%;
+        background-color: rgb(231, 89, 7);
+}
